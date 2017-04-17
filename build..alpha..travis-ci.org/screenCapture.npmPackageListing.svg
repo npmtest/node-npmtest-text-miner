@@ -1,0 +1,25 @@
+<svg height="350" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="350" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 14:31:59 +0000    63539 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 14:31:59 +0000     1090 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 14:31:59 +0000     6063 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 14:31:59 +0000       11 bytes  TODO.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 14:31:59 +0000     3371 bytes  build/contractions.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 14:31:59 +0000     2335 bytes  build/corpus.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 14:31:59 +0000     1868 bytes  build/dtm.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 14:31:59 +0000    15966 bytes  build/stopwords.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 14:31:59 +0000      229 bytes  build/text-miner.min.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 14:31:59 +0000      231 bytes  build/utils.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 14:31:59 +0000      391 bytes  examples/creatingCorpus.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 14:31:59 +0000      267 bytes  examples/getTerms.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 14:31:59 +0000     2735 bytes  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 14:31:59 +0000     3903 bytes  src/contractions.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 14:31:59 +0000     4307 bytes  src/corpus.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 14:31:59 +0000     3280 bytes  src/dtm.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 14:31:59 +0000    16038 bytes  src/stopwords.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 14:31:59 +0000      255 bytes  src/text-miner.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 14:31:59 +0000      338 bytes  src/utils.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 14:31:59 +0000      861 bytes  src/weightTfIdf.js</tspan>
+</text>
+</svg>

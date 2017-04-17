@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">6 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ text-miner@1.0.5 </tspan>
+<tspan x="10" y="90">  ├─┬ natural@0.2.1 </tspan>
+<tspan x="10" y="106">  │ ├── apparatus@0.0.9 </tspan>
+<tspan x="10" y="122">  │ └── sylvester@0.0.21 </tspan>
+<tspan x="10" y="138">  ├── underscore@1.8.3 </tspan>
+<tspan x="10" y="154">  └─┬ underscore.string@3.3.4 </tspan>
+<tspan x="10" y="170">    ├── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="186">    └── util-deprecate@1.0.2</tspan>
+</text>
+</svg>
