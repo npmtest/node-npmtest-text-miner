@@ -1,4 +1,7 @@
-# test coverage for  [text-miner (v1.0.5)](https://github.com/Planeshifter/text-miner#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-text-miner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-miner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-miner.svg)](https://travis-ci.org/npmtest/node-npmtest-text-miner)
+# npmtest-text-miner
+
+#### basic test coverage for  [text-miner (v1.0.5)](https://github.com/Planeshifter/text-miner#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-text-miner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-text-miner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-text-miner.svg)](https://travis-ci.org/npmtest/node-npmtest-text-miner)
+
 #### text mining utilities
 
 [![NPM](https://nodei.co/npm/text-miner.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/text-miner)
